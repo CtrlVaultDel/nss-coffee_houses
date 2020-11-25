@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: #ccbdbd;;
+    font-weight: bold;
+}
+
+a:visited{
+    color: #ccbdbd;;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: darkblue;
+    text-transform:uppercase;
+}
